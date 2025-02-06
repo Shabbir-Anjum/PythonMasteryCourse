@@ -69,3 +69,7 @@ print(newlist)
 newlist = [x for x in range(10) if x < 9]
 
 print(newlist)
+
+
+
+
