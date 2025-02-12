@@ -84,11 +84,13 @@ print(tuple3)
 # print(list1)
 
 
-fruits = ("apple", "banana", "cherry")
-mytuple = fruits * 2
+# fruits = ("apple", "banana", "cherry")
+# mytuple = fruits * 2
 
-print(mytuple)
+# print(mytuple)
 
-thisset = {"apple", "banana", "cherry", True, 1, 2}
+# thisset = {"apple", "banana", "cherry", True, 1, 2}
 
-print(thisset)
+# print(thisset)
+fruits,t,c = ["apple", "banana", "cherry"]
+print(fruits,t,c)
